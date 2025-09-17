@@ -19,11 +19,11 @@ redirect_from:
 
 **Shihao Wang**  
 Ph.D. Student, Department of Computing, Hong Kong Polytechnic University (PolyU)  
-PQ515, PolyU | Tel: +86 18210705396 | [Homepage](https://exiawsh.github.io/shihaow-homepage.github.io/)  
+PQ515, PolyU | Tel: +86 18210705396 | [Github](https://github.com/exiawsh)  
 Email: 24053277r@connect.polyu.hk
 
 My research interests include 3D perception and planning for autonomous vehicles and robotics, multimodal foundation models, streaming video understanding, and test-time adaptation for agentic systems.  
-I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=7TWugs4AAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.  
+I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=7TWugs4AAAAJ'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>.  
 
 <span class='anchor' id='news'></span>
 # 🔥 News
