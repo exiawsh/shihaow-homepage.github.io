@@ -11,7 +11,7 @@ redirect_from:
 # Shihao Wang
 
 **Ph.D. Student, Department of Computing, Hong Kong Polytechnic University (PolyU)**  
-PQ515, PolyU | Tel: +86 18210705396 | [Homepage](https://exiawsh.github.io/shihaow-homepage.github.io/)  
+PQ515, PolyU | Tel: +86 18210705396 | [Github](https://github.com/exiawsh)  
 Email: 24053277r@connect.polyu.hk
 
 ---
@@ -122,4 +122,4 @@ Email: 24053277r@connect.polyu.hk
 
 ---
 
-## 🌐 [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ) | [Homepage](https://exiawsh.github.io/shihaow-homepage.github.io/)
+## 🌐 [Google Scholar](https://scholar.google.com/citations?user=7TWugs4AAAAJ) | [Homepage](https://exiawsh.github.io/shihaow-homepage.github.io/)
