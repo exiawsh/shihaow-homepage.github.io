@@ -27,14 +27,16 @@ I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='ht
 [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ) <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 [VideoITG](https://arxiv.org/abs/2507.13353) accepted to arXiv, achieving SOTA on long-video understanding benchmarks.
+- *2025.02*: &nbsp;🎉 [OmniDrive](https://arxiv.org/abs/2405.01533) accepted to CVPR 2025.
 - *2024.06*: &nbsp;🏆 1st Place in End-to-End Driving at Scale, 2nd Place in Driving with Language, CVPR 2024 Autonomous Driving Grand Challenge.
-- *2024.05*: &nbsp;🎉 [OmniDrive](https://arxiv.org/abs/2405.01533) accepted to CVPR 2025.
-- *2023.10*: &nbsp;🎉 Joined NVIDIA Applied Research Group as Research Intern.
+- *2023.10*: &nbsp;🎉 Joined NVIDIA AV Applied Research Group as Research Intern.
+- *2025.02*: &nbsp;🎉 [StreamPETR](https://arxiv.org/abs/2303.11926) accepted to CVPR 2025.
+- *2022.10*: &nbsp;🎉 Joined MEGVII Technology Foundation Model Group as Research Intern.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/omnidrivethumb.png' alt="OmniDrive" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/omnidrive.png' alt="OmniDrive" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniDrive: A holistic vision-language dataset for autonomous driving with counterfactual reasoning](https://arxiv.org/abs/2405.01533)
@@ -63,8 +65,10 @@ CVPR 2025
 - *2017.09 - 2021.06*, B.Sc. in Vehicle Engineering, Beijing Institute of Technology (BIT), Beijing, GPA: 87.5/100
 
 # 💬 Invited Talks
-- *2024.06*, "Vision-Language Foundation Models for Autonomous Driving", CVPR 2024 Autonomous Driving Grand Challenge Workshop
-- *2023.12*, "Streaming Perception for Autonomous Vehicles", NVIDIA Research Group
+- *2024.07*, [OmniDrive: Advancing autonomous driving 3D perception, reasoning, and planning with large models](https://www.bilibili.com/video/BV1jH4y1c7rD/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
+- *2023.12*, [Sparse vectorized representation for long-term temporal modeling](https://www.bilibili.com/video/BV1EG411a7s3/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
+- *2023.08*, [How can BEV perception be achieved without BEV features?](https://www.bilibili.com/video/BV1sp4y137fh/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
+
 
 # 💻 Internships
 - *2023.10 - 2025.01*, [NVIDIA](https://www.nvidia.com/en-us/research/), Shenzhen, China.  
