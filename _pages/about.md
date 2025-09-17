@@ -23,8 +23,7 @@ PQ515, PolyU | Tel: +86 18210705396 | [Homepage](https://exiawsh.github.io/shiha
 Email: 24053277r@connect.polyu.hk
 
 My research interests include 3D perception and planning for autonomous vehicles and robotics, multimodal foundation models, streaming video understanding, and test-time adaptation for agentic systems.  
-I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.  
-[Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ) <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=7TWugs4AAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.  
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 [OmniDrive](https://arxiv.org/abs/2405.01533) accepted to CVPR 2025.
