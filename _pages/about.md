@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span class='anchor' id='about-me'></span>
 # Shihao Wang
 
 **Ph.D. Student, Department of Computing, Hong Kong Polytechnic University (PolyU)**  
-PQ515, PolyU | Tel: +86 18210705396 | [Github](https://github.com/exiawsh)  
+PQ515, PolyU | Tel: +86 18210705396
 Email: 24053277r@connect.polyu.hk
+## 🌐 [Google Scholar](https://scholar.google.com/citations?user=7TWugs4AAAAJ) | [Github](https://github.com/exiawsh)
 
 ---
 
@@ -25,7 +26,15 @@ Email: 24053277r@connect.polyu.hk
 
 ---
 
-## 🎓 Education
+## 🏆 Honors and Awards
+
+- Winner, [CVPR24 Challenge on End-to-End Driving at Scale](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale), 2024
+- 2nd Place, [CVPR24 Challenge on Driving with Language](https://opendrivelab.com/challenge2024/#driving_with_language), 2024
+- 1st Place, nuScenes leaderboard on camera-only 3D object tracking, 2023
+
+---
+
+## 🎓 Educations
 
 - **Ph.D. in Computer Vision**  
   Department of Computing, Hong Kong Polytechnic University (PolyU), Hong Kong  
@@ -43,43 +52,7 @@ Email: 24053277r@connect.polyu.hk
 
 ---
 
-## 💼 Internships
-
-### NVIDIA, Shenzhen, China  
-**Research Intern, AV Applied Research Group**  
-*Oct 2023 – Jan 2025*
-
-- **Building Multimodal Brains**
-  - Contributed to the design and scaling of [Eagle VLM family](https://arxiv.org/pdf/2408.15998) (Eagle, Eagle-2, Eagle-2.5), establishing new SOTA baselines for long-context multimodal reasoning.
-  - Developed [VideoITG](https://arxiv.org/abs/2507.13353), an instruction-guided temporal grounding framework for long-video understanding, achieving SOTA results on VideoMME, MLVU, and Long-Video-Bench.
-  - Core contributor to the vision-language foundation of [GR00T N1.5](https://research.nvidia.com/labs/gear/gr00t-n1_5/).
-
-- **Perception–Planning Integration**
-  - Contributed to [HydraMDP](https://arxiv.org/html/2406.06978v1) and [Hydra-NeXt](https://arxiv.org/html/2503.12030), end-to-end driving frameworks integrating object-centric perception with strategic counterfactual reasoning and multimodal trajectory planning.
-  - Achieved **1st place** in End-to-End Driving at Scale and **2nd place** in Driving with Language at CVPR 2024 Autonomous Driving Grand Challenge.
-  - Developed [OmniDrive](https://arxiv.org/abs/2405.01533) (CVPR 2025), a scalable pipeline for interpretable AV decision making.
-
----
-
-### MEGVII Technology, Beijing, China  
-**Research Intern, Foundation Model Group (PI: [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en))**  
-*Apr 2022 – Jul 2023*
-
-- **Perception Foundation**
-  - Developed [StreamPETR](https://arxiv.org/abs/2303.11926) (ICCV 2023), the first vision-based 3D object detector to match LiDAR performance on nuScenes.
-  - Contributed to [Far3D](https://arxiv.org/abs/2308.09616) for long-range multi-view 3D detection, achieving competitive results on Argoverse 2 and nuScenes.
-
----
-
-## 🏆 Honors & Awards
-
-- Winner, [CVPR24 Challenge on End-to-End Driving at Scale](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale), 2024
-- 2nd Place, [CVPR24 Challenge on Driving with Language](https://opendrivelab.com/challenge2024/#driving_with_language), 2024
-- 1st Place, nuScenes leaderboard on camera-only 3D object tracking, 2023
-
----
-
-## 📝 Selected Publications
+## 📝 Publications
 
 - **Shihao Wang**, Guo Chen, De-An Huang, Zhiqi Li, Minghan Li, Guilin Liu, Jose M. Alvarez, Lei Zhang, Zhiding Yu.  
   *VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding*. arXiv:2507.13353, 2025.
@@ -122,4 +95,30 @@ Email: 24053277r@connect.polyu.hk
 
 ---
 
-## 🌐 [Google Scholar](https://scholar.google.com/citations?user=7TWugs4AAAAJ) | [Homepage](https://exiawsh.github.io/shihaow-homepage.github.io/)
+## 💼 Internships
+
+### NVIDIA, Shenzhen, China  
+**Research Intern, AV Applied Research Group**  
+*Oct 2023 – Jan 2025*
+
+- **Building Multimodal Brains**
+  - Contributed to the design and scaling of [Eagle VLM family](https://arxiv.org/pdf/2408.15998) (Eagle, Eagle-2, Eagle-2.5), establishing new SOTA baselines for long-context multimodal reasoning.
+  - Developed [VideoITG](https://arxiv.org/abs/2507.13353), an instruction-guided temporal grounding framework for long-video understanding, achieving SOTA results on VideoMME, MLVU, and Long-Video-Bench.
+  - Core contributor to the vision-language foundation of [GR00T N1.5](https://research.nvidia.com/labs/gear/gr00t-n1_5/).
+
+- **Perception–Planning Integration**
+  - Contributed to [HydraMDP](https://arxiv.org/html/2406.06978v1) and [Hydra-NeXt](https://arxiv.org/html/2503.12030), end-to-end driving frameworks integrating object-centric perception with strategic counterfactual reasoning and multimodal trajectory planning.
+  - Achieved **1st place** in End-to-End Driving at Scale and **2nd place** in Driving with Language at CVPR 2024 Autonomous Driving Grand Challenge.
+  - Developed [OmniDrive](https://arxiv.org/abs/2405.01533) (CVPR 2025), a scalable pipeline for interpretable AV decision making.
+
+---
+
+### MEGVII Technology, Beijing, China  
+**Research Intern, Foundation Model Group (PI: [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en))**  
+*Apr 2022 – Jul 2023*
+
+- **Perception Foundation**
+  - Developed [StreamPETR](https://arxiv.org/abs/2303.11926) (ICCV 2023), the first vision-based 3D object detector to match LiDAR performance on nuScenes.
+  - Contributed to [Far3D](https://arxiv.org/abs/2308.09616) for long-range multi-view 3D detection, achieving competitive results on Argoverse 2 and nuScenes.
+
+---
