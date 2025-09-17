@@ -28,14 +28,53 @@ I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='ht
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.02*: &nbsp;🎉 [OmniDrive](https://arxiv.org/abs/2405.01533) accepted to CVPR 2025.
+- *2025.06*: &nbsp;🎉 [Hydra-Next](https://arxiv.org/abs/2503.12030) accepted to ICCV 2025.
+- *2024.11*: &nbsp;🎉 [Eagle](https://arxiv.org/abs/2408.15998) accepted to ICLR 2025.
 - *2024.06*: &nbsp;🏆 1st Place in End-to-End Driving at Scale, 2nd Place in Driving with Language, CVPR 2024 Autonomous Driving Grand Challenge.
+- *2023.11*: &nbsp;🎉 [Far3D](https://arxiv.org/abs/2308.09616) accepted to AAAI 2024.
 - *2023.10*: &nbsp;🎉 Joined NVIDIA AV Applied Research Group as Research Intern.
-- *2025.02*: &nbsp;🎉 [StreamPETR](https://arxiv.org/abs/2303.11926) accepted to CVPR 2025.
+- *2023.02*: &nbsp;🎉 [StreamPETR](https://arxiv.org/abs/2303.11926) accepted to ICCV 2023.
 - *2022.10*: &nbsp;🎉 Joined MEGVII Technology Foundation Model Group as Research Intern.
 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv </div><img src='images/videoitg.png' alt="VideoITG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://arxiv.org/abs/2507.13353)
+
+**Shihao Wang** et al.
+
+arXiv 2025
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/Hydra-Next.png' alt="Hydra-NeXt" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training](https://arxiv.org/abs/2503.12030)
+
+Zhenxin Li, **Shihao Wang** et al.
+
+ICCV 2025
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Eagle.jpg' alt="Eagle" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eagle: Exploring the design space for multimodal llms with mixture of encoders](https://arxiv.org/abs/2408.15998)
+
+Min Shi, Fuxiao Liu, **Shihao Wang** et al.
+
+ICLR 2025
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/omnidrive.png' alt="OmniDrive" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,11 +88,29 @@ CVPR 2025
 </div>
 </div>
 
-- [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://arxiv.org/abs/2507.13353), **Shihao Wang** et al., arXiv 2025
-- [StreamPETR: End-to-End Multi-View 3D Object Detection with Transformers](https://arxiv.org/abs/2303.11926), **Shihao Wang** et al., ICCV 2023
-- [Far3D: Expanding the horizon for surround-view 3d object detection](https://arxiv.org/abs/2308.09616), **Shihao Wang** et al., AAAI 2024
-- [HydraMDP: End-to-end multimodal planning with multi-target hydra-distillation](https://arxiv.org/abs/2406.06978), **Shihao Wang** et al., arXiv 2024
-- [Eagle: Exploring the design space for multimodal llms with mixture of encoders](https://arxiv.org/abs/2408.15998), **Shihao Wang** et al., arXiv 2024
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/Far3D.png' alt="Far3D" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Far3D: Expanding the horizon for surround-view 3d object detection](https://arxiv.org/abs/2308.09616)
+
+Xiaohui Jiang, Shuanglin Li, Yingfei Liu, **Shihao Wang** et al.
+
+AAAI 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/StreamPETR.png' alt="StreamPETR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StreamPETR: End-to-End Multi-View 3D Object Detection with Transformers](https://arxiv.org/abs/2303.11926)
+
+**Shihao Wang** et al.
+
+ICCV 2023
+
+</div>
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
