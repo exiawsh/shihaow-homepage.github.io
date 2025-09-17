@@ -25,6 +25,7 @@ Email: 24053277r@connect.polyu.hk
 My research interests include 3D perception and planning for autonomous vehicles and robotics, multimodal foundation models, streaming video understanding, and test-time adaptation for agentic systems.  
 I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=7TWugs4AAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>.  
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.02*: &nbsp;🎉 [OmniDrive](https://arxiv.org/abs/2405.01533) accepted to CVPR 2025.
 - *2024.06*: &nbsp;🏆 1st Place in End-to-End Driving at Scale, 2nd Place in Driving with Language, CVPR 2024 Autonomous Driving Grand Challenge.
@@ -33,6 +34,7 @@ I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='ht
 - *2022.10*: &nbsp;🎉 Joined MEGVII Technology Foundation Model Group as Research Intern.
 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/omnidrive.png' alt="OmniDrive" width="100%"></div></div>
@@ -53,22 +55,26 @@ CVPR 2025
 - [HydraMDP: End-to-end multimodal planning with multi-target hydra-distillation](https://arxiv.org/abs/2406.06978), **Shihao Wang** et al., arXiv 2024
 - [Eagle: Exploring the design space for multimodal llms with mixture of encoders](https://arxiv.org/abs/2408.15998), **Shihao Wang** et al., arXiv 2024
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2024.06* Winner, CVPR24 Challenge on End-to-End Driving at Scale
 - *2024.06* 2nd Place, CVPR24 Challenge on Driving with Language
 - *2023.11* 1st Place, nuScenes leaderboard on camera-only 3D object tracking
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. in Computer Vision, Department of Computing, Hong Kong Polytechnic University (PolyU), Hong Kong
 - *2021.09 - 2024.06*, M.Sc. in Vehicle Engineering, Beijing Institute of Technology (BIT), Beijing, GPA: 89.5/100
 - *2017.09 - 2021.06*, B.Sc. in Vehicle Engineering, Beijing Institute of Technology (BIT), Beijing, GPA: 87.5/100
 
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - *2024.07*, [OmniDrive: Advancing autonomous driving 3D perception, reasoning, and planning with large models](https://www.bilibili.com/video/BV1jH4y1c7rD/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
 - *2023.12*, [Sparse vectorized representation for long-term temporal modeling](https://www.bilibili.com/video/BV1EG411a7s3/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
 - *2023.08*, [How can BEV perception be achieved without BEV features?](https://www.bilibili.com/video/BV1sp4y137fh/?spm_id_from=333.337.search-card.all.click&vd_source=9cbcbed80d96a79a1b4271286ac0f279)
 
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 - *2023.10 - 2025.01*, [NVIDIA](https://www.nvidia.com/en-us/research/), Shenzhen, China.  
   - Research Intern, AV Applied Research Group. Contributed to Eagle VLM family, VideoITG, HydraMDP, OmniDrive, GR00T N1.5.
