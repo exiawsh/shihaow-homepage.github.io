@@ -18,12 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 **Shihao Wang**  
-Ph.D. Student, Department of Computing, Hong Kong Polytechnic University (PolyU)  
-PQ515, PolyU | Tel: +86 18210705396 | [Github](https://github.com/exiawsh)  
-Email: 24053277r@connect.polyu.hk
+I am a second-year Ph.D. student in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). My research spans 3D perception and planning for autonomous vehicles and robotics, multimodal foundation models, streaming video understanding, and test-time adaptation for agentic systems, with publications at top conferences including CVPR, ICCV, and AAAI. I also collaborate closely with NVIDIA Research and have contributed to both foundational multimodal models and autonomous driving systems.
 
-My research interests include 3D perception and planning for autonomous vehicles and robotics, multimodal foundation models, streaming video understanding, and test-time adaptation for agentic systems.  
-I have published at CVPR, ICCV, AAAI and other top conferences, with <a href='https://scholar.google.com/citations?user=7TWugs4AAAAJ'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>.  
+My work includes the Eagle‑VLM series, powering NVIDIA’s commercial multimodal models and the Isaac GR00T humanoid robotics platform, as well as OmniDrive and Hydra‑MDP, which connect 3D perception with multimodal reasoning for end‑to‑end autonomous driving and have earned top awards at the CVPR 2024 Autonomous Driving Challenge. I am also the author of StreamPETR (ICCV’23), a streaming paradigm for camera‑based 3D perception that reached #1 among online methods on nuScenes and has been widely adopted in both academia and industry.
+
+Looking ahead, I am developing memory‑centric, self‑evolving AI agents capable of persistent long‑horizon reasoning across virtual and physical domains, aiming to push beyond task‑specific solutions toward truly reliable general‑purpose autonomy.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -135,7 +134,7 @@ ICCV 2023
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2023.10 - 2025.01*, [NVIDIA](https://www.nvidia.com/en-us/research/), Shenzhen, China.  
+- *2023.10 - 2025.01*, [NVIDIA](https://www.nvidia.com/en-us/research/), Beijing, China.  
   - Research Intern, AV Applied Research Group. Contributed to Eagle VLM family, VideoITG, HydraMDP, OmniDrive, GR00T N1.5.
 - *2022.04 - 2023.07*, [MEGVII Technology](https://megvii.com/), Beijing, China.  
   - Research Intern, Foundation Model Group (PI: [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en)). Developed StreamPETR, Far3D, etc.
